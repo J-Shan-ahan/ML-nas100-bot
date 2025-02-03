@@ -1,0 +1,8 @@
+*.csv
+training_checkpoints/
+venv/
+gpt.random.py
+ltsm_ml.py
+main.py
+model.keras
+version_1.keras
